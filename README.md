@@ -26,6 +26,9 @@ L'aiguille posé sur le sillon en rotation permet de restituer le son dans le di
 
 C'est le 4 décembre 1877 que voit jour le premier enregistrement sonore avec comme phrase enregistré "comment-trouves tu cela ?"
 
+Voici le fonctionnement du phonographe: 
+https://www.youtube.com/watch?v=wRTgl0qx6wE
+
 Mais cette technique de restitution du son n'est pas la meilleure. En effet, la durée d'enregistrement ne dépasse pas 2 minutes, les cylindres se cassent facilement et s'abîment assez rapidement.
 
 
