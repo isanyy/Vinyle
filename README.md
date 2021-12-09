@@ -15,7 +15,7 @@ Remontons le temps, 1877, Thomas Edison met au point le premier appareil capable
 
 Le phonographe :
 
-![Image text](https://user-images.githubusercontent.com/93718385/145305175-29fc8637-6e58-48d4-9aae-ba93493c9695.jpg)
+![demo-phono-cnam_0001080_00](https://user-images.githubusercontent.com/93718385/145346306-ae4c0e14-eaba-4c47-aa49-da8f9f112de7.jpeg)
 
 Le Cornet est placé devant une source sonore, il transmet des vibrations à un stylet qui grave directement sur un cylindre en étaint.
 
