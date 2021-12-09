@@ -1,7 +1,11 @@
 # Vinyle
 
 1. [L'histoire du Vinyle](#L'histoire-du-vinyle)
-2. [Le fonctionnement d'un vinyle](#fonctionnement-du-vinyle)
+2. [Comment sont créer les vinyles](#Comment-sont-créer-les-vinyles)
+3. [Les différents formats de vinyles](#Les-différents-formats-de-vinyles)
+4. [Des vinyles de couleurs ?](#Des-vinyles-de-couleurs)
+5. [Le fonctionnement d'un vinyle](#fonctionnement-du-vinyle)
+6. [Le tourne disque c'est quoi ?](#Le-tourne-disque-c'est-quoi)
 ***
 ### L'histoire du Vinyle
 
