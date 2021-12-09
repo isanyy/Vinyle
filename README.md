@@ -55,6 +55,9 @@ Ce cake va être ensuite mis dans un presseur, qui lui aussi va chauffer à diff
 
 Cette machine va gravée le signal analogique du son sur le vinyl permettant de stocker une informations sonores.
 
+![en-2018-sony-music-va-de-nouveau-presser-des-disques-vinyles_06581447](https://user-images.githubusercontent.com/93718385/145310017-9f6c1e28-527a-4bed-9885-1229198b0794.jpeg)
+
+
 ### Différent formats de vinyles 
 
 Le vinyles à connu de différentes tailles,
@@ -73,9 +76,6 @@ Mais la durée d'enregistrement augmente, elle passe de 5 min à 30 min sur chaq
 Le maxi 45 tours ou maxi-single ou EP (extented play) ot une durée de 10 à 12min sur chaque face.
 
 Ce format est souvent utilisé pour des singles ou bien des EP, un mélange entre le single et l'album composé en général de 4-5 morceaux 
-
-
-![en-2018-sony-music-va-de-nouveau-presser-des-disques-vinyles_06581447](https://user-images.githubusercontent.com/93718385/145310017-9f6c1e28-527a-4bed-9885-1229198b0794.jpeg)
 
 ### Des vinyles de Couleurs ?
 
